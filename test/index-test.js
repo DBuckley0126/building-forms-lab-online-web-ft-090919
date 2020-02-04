@@ -11,4 +11,5 @@ import manageBand from '../src/reducers/manageBand'
 import App from '../src/App'
 import Adapter from 'enzyme-adapter-react-16'
 
+
 configure({ adapter: new Adapter() })
